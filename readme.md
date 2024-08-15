@@ -14,7 +14,8 @@
   * Width: 38 mm
   * Height: 25 mm
   * Margins: 0 mm (all sides)
-* Don't use the browser print option open system print dialog and select the custom paper size you created.
+* Don't use the browser print option open the system print dialog and select the custom paper size you created.
+* Or use the shortcut for the system print dialog for Macos its `command + option + p`
 * ![img.png](img.png)
 * Change you scale to 80 to 100% to fit the barcode in the paper.
 * Make sure the paper size is set to the custom paper size you created.
